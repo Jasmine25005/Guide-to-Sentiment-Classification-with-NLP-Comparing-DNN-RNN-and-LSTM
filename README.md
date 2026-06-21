@@ -12,7 +12,7 @@ The project is structured into six foundational steps:
 Understanding the raw data is the critical first step before any transformation occurs.
 *   **Implementation:** The data is loaded using `pandas` (handling both training and validation CSV files) and cleaned of any null text entries. 
 *   **Visual Insights:** 
-    *   Utilized `seaborn` to plot the distribution of target labels, ensuring an understanding of class balance[span_3].
+    *   Utilized `seaborn` to plot the distribution of target labels, ensuring an understanding of class balance.
     *   Implemented `WordCloud` to generate visual representations of the most frequent vocabulary across the dataset, offering an intuitive grasp of the corpus.
 
 ### 2. Advanced Preprocessing: The Divergence
