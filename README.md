@@ -1,4 +1,4 @@
-# Decoding Tweets | A Complete NLP Guide (DNN, LSTM)
+# Decoding Tweets | A Complete NLP Guide (DNN, RNN, LSTM)
 
 ## Overview
 This project serves as a comprehensive, end-to-end blueprint for Natural Language Processing (NLP). Originally developed as a practical guide while learning and mastering the fundamentals of NLP, the architecture built here provides a robust, universal foundation. The core pipelines, data engineering, and comparative methodologies demonstrated in this notebook can be seamlessly adapted to any broad NLP task, ranging from text classification to machine translation.
